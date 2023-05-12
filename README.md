@@ -1,5 +1,5 @@
 # zaira-chem-tdc
-This repository contains the benchmarking of ZairaChem using the Therapeutics Data Commons Datasets
+This repository contains the benchmarking of ZairaChem v1 using the [Therapeutics Data Commons Datasets](https://tdcommons.ai/)
 
 ## ZairaChem
 [ZairaChem](https://github.com/ersilia-os/zaira-chem) is an automated pipeline for ML-based (Q)SAR models. Detailed installation instructions can be found in [Ersilia's GitBook](https://ersilia.gitbook.io/ersilia-book/chemistry-tools/automated-activity-prediction-models/accurate-automl-with-zairachem)
